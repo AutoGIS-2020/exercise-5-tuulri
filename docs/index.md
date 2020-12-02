@@ -4,7 +4,7 @@ This page holds links to static and interactive maps presenting travel times in 
 
 Static map: Map shows travel times to Forum within 10 km distance using public transport. 
 
-Interactvive map: Map shows areas in Helsinki from which Forum and Itis are accessable within 15 minutes using private car during rush time. 
+Interactive map: Map shows areas in Helsinki from which Forum and Itis are accessable within 15 minutes using private car during rush time. 
 
 
 ## My maps
