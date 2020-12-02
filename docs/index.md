@@ -1,10 +1,10 @@
 # Entrance page
 
-To this page you should add links to your interactive html-maps that are located under your Exercise-5 repository like the following (*modify the username part* + *notice that **e**xercise starts with lower e -letter *):
+This page holds links to static and interactive maps presenting travel times in Helsinki Metropolitan area.
 
- `https://autogis-2019.github.io/exercise-5-YourUserName/filename.html`
+Static map: Map shows travel times to Forum within 10 km distance using public transport. 
 
-Here is an example how to do it in MarkDown for user VuokkoH:
+Interactvive map: Map areas in Helsinki from which Forum and Itis are accessable within 15 minutes by car during rush time 
 
 ```
 [Link to test map](https://autogis-2019.github.io/exercise-5-VuokkoH/test_map.html)
