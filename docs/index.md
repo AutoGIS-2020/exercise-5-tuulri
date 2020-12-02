@@ -14,7 +14,7 @@ Here is an example how to do it in MarkDown for user VuokkoH:
 
 Edit the text below and add links to the maps that you have created:
 
- - [My static map]()
- - [My interactive map]()
+ - [My static map](https://autogis-2020.github.io/exercise-5-tuulri/PT_traveltimes_Forum10km.png)
+ - [My interactive map](https://autogis-2020.github.io/exercise-5-tuulri/Traveltimes_Forum_Itis_under15min.html)
  - [Link to test map](https://autogis-2018.github.io/exercise-5-VuokkoH/test_map.html)
 
