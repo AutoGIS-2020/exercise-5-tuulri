@@ -69,8 +69,15 @@ Create a nice interactive map using the skills you leared in lesson 5: interacti
 
 For both maps, think a bit about the audience of the map, and pay attention to your cartographic choises. Check out [this blog post for further hints on creating good maps](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/). 
   
-  
-  
+## Exercise 5 grade and feedback: 20.0 / 20.0 points
+### Grader
+- sonjakoivisto
+### Problem scores
+- Problem 1: 10.0 / 10.0 
+- Problem 2: 10.0 / 10.0 
+- Problem 3: :sunny: / 0.0
+### Comments
+Great maps with attention to the visual side. Eye-pleasing colors and you've followed conventional, good cartogrphic practices. The static map might look quite different with a different classification, eg natural breaks. Next you could start thinking of adding a scalebar and north arrow to your static maps.
   
   
   
